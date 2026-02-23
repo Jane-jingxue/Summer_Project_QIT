@@ -10,4 +10,3 @@
 
 - [ ] Study the dissociation of the H2O molecule using different orbitals and plot the relation between distance and entropies of different orbitals (HF, NO, various localized orbitals)
 - [ ] Plot the total FCI energy wrt to bond lengths
-- [ ] ask more questions...
